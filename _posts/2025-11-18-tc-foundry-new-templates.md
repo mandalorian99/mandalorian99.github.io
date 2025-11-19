@@ -7,7 +7,7 @@ tags: [popups]
 Techadvisor popup templates . 
 
 <h1>TC B2B popup</h1>
-
+<p>Same templates with slight variations </p>
 <div id="tc_b_2_b">
   
 </div>
