@@ -6,15 +6,30 @@ tags: [popups]
 
 Techadvisor popup templates . 
 
-<h1>TC B2B popup</h1>
-<p>Same templates with slight variations </p>
-<div id="tc_b_2_b">
+<h1>TC B2C popup</h1>
+<div id="tc_b_2_c">
+  
+</div>
+
+<h1>B2C - PCworld</h1>
+<div id="PCworld">
+  
+</div>
+
+<h1>B2C - M3</h1>
+<div id="M3">
+  
+</div>
+
+<h1>B2C - Macworld</h1>
+<div id="Macworld">
   
 </div>
 
 
-<h1>TC B2C popup</h1>
-<div id="tc_b_2_c">
+<h1>TC B2B popup</h1>
+<p>Same templates with slight variations </p>
+<div id="tc_b_2_b">
   
 </div>
 
