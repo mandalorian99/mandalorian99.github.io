@@ -1,49 +1,37 @@
-# HTML Attribute test Blog Post
-
-Testing Markdown with full HTML and body attributes.
-
+---
+layout: post
+title: Mi primer post en español
+lang: es-ES
+description: Un post de prueba en español para GitHub Pages
 ---
 
-## HTML + Body Attributes Test
+# Hola 👋
 
-<html lang="es-ES">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Body Attribute Test</title>
-  </head>
+Bienvenido a mi blog en GitHub Pages.
 
-  <body class="blog-body" id="main-body" data-theme="light" style="font-family: Arial, sans-serif;">
-    <h1>Welcome to My GitHub Blog</h1>
+Este post está escrito en **español**, y el atributo `lang` del documento HTML
+se actualizará automáticamente a `es-ES` solo para esta página.
 
-    <p>
-      This content is rendered inside a body tag
-      with multiple attributes applied.
-    </p>
+## ¿Qué estoy probando aquí?
 
-    <p lang="en">
-      Body attributes include class, id, data-theme, and inline style.
-    </p>
+Estoy verificando que:
 
-    <section data-section="intro">
-      <h2>Purpose</h2>
-      <p>
-        This test confirms that HTML attributes
-        are respected inside Markdown files
-        on GitHub Pages.
-      </p>
-    </section>
-  </body>
-</html>
+HTML `lang` cambia por post  
+Markdown funciona correctamente  
+El layout global no se rompe  
+SEO y accesibilidad funcionan bien  
 
----
+## Contenido de prueba
 
-## Markdown Continues Here
+Este es un párrafo normal escrito en Markdown.
 
-You can safely mix Markdown and HTML in the same file.
+<strong>Este texto está en negrita usando HTML</strong>
 
----
+<p lang="es">
+Este párrafo tiene explícitamente el idioma español.
+</p>
 
-### Author
+## Código de ejemplo
 
-Mahendra
+```html
+<p>Esto es código HTML dentro de Markdown</p>
