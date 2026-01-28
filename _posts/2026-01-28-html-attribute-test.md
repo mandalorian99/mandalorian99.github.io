@@ -6,7 +6,7 @@ Testing Markdown with full HTML and body attributes.
 
 ## HTML + Body Attributes Test
 
-<html lang="en">
+<html lang="es-ES">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
