@@ -11,9 +11,9 @@ Target URL Advance Popup Templates used across TechAdvisor and CIO websites.
 
 <div id="techadvisor_b2c">
   <ul>
-    <li><h2>Simple Version (With CTA Button) Without Image</h2></li>
-    <li><h2>Simple Version (With CTA Button) With Image</h2></li>
-    <li><h2>Advanced Version (Without CTA Button)</h2></li>
+    <li><h2 id="ta_simple_cta_no_image">Simple Version (With CTA Button) Without Image</h2></li>
+    <li><h2 id="ta_simple_cta_with_image">Simple Version (With CTA Button) With Image</h2></li>
+    <li><h2 id="ta_advanced_no_cta">Advanced Version (Without CTA Button)</h2></li>
   </ul>
 </div>
 
@@ -21,7 +21,7 @@ Target URL Advance Popup Templates used across TechAdvisor and CIO websites.
 
 <div id="cio_b2b">
   <ul>
-    <li><h2>Simple Version (With CTA Button) Without Image</h2></li>
-    <li><h2>Advanced Version (Without CTA Button)</h2></li>
+    <li><h2 id="cio_simple_cta_no_image">Simple Version (With CTA Button) Without Image</h2></li>
+    <li><h2 id="cio_advanced_no_cta">Advanced Version (Without CTA Button)</h2></li>
   </ul>
 </div>
