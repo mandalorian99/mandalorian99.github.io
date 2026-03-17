@@ -16,17 +16,17 @@ Inline Templates - Target a URL
   
 </div>
 
-<h1>Tech Advior without Image</h1>
-<div id="tech_advior">
+<h1>Tech Advisor without Image</h1>
+<div id="tech_advisor">
   
 </div>
 
-<h1>Tech Advior with Image</h1>
-<div id="tech_advior_image">
+<h1>Tech Advisor with Image</h1>
+<div id="tech_advisor_image">
   
 </div>
 
-<h1>Tech Advior with Image without CTA</h1>
-<div id="tech_advior_no_cta">
+<h1>Tech Advisor with Image without CTA</h1>
+<div id="tech_advisor_no_cta">
   
 </div>
