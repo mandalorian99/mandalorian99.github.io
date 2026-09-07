@@ -2,6 +2,7 @@
 layout: post
 author: Mahendra Choudhary
 tags: [popups]
+content_type: Feature
 ---
 
 Inline Templates - Target a URL
